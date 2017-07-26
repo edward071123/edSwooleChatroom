@@ -1,7 +1,10 @@
 # edSwooleChatroom
 
 PHP 7.0
+
 SWOOLE 2.0.6
+
+DEMO:https://edwardspeedforce.com/chatroom/
 
 Create a new folder "uploads",and set folder permission  777.
 
